@@ -1,3 +1,11 @@
+# MMDVM_HS_Dual_Hat 2.0mini 成本与制造性改良
+1.调整LDO为更易获得的1117-3.3
+2.调整不易获得（且昂贵）的天线ant1204为CA-S01
+3.调整昂贵的0402封装10uH电感为0603封装，必要时可使用0805封装
+4.增加st-link接口与3.3V、5v接口方便焊接风扇与烧录hat固件
+5.微调布局以适应上述调整
+本设计调整更改遵从原设计团队开源协议与制作要求，不得进行商业化运作
+
 # MMDVM_HS_Dual_Hat
 Duplex variant of MMDVM_HS_Hat
 DB9MAT DF2ET DO7EN
